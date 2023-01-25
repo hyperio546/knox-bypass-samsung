@@ -7,4 +7,4 @@ Links to important things:
 - [LADB](https://github.com/hyperio546/ladb-builds/releases)
 - [Play Store](intent://com.android.vending/#Intent;scheme=android-app;end) 
 # ADB Command
-- pm disable-user --user 0 com.sec.enterprise.knox.cloudmdm.smdms
+- pm uninstall -k --user 0 com.sec.enterprise.knox.cloudmdm.smdms
