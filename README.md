@@ -1,9 +1,6 @@
-# Links:
-# Apps (Don't serve a really big purpose)
-- [Galaxy Store](intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end)
-- [Settings](intent://com.android.settings/#Intent;scheme=android-app;end)
-- [Chrome](intent://com.android.chrome/#Intent;scheme=android-app;end)
-- [Play Store](intent://com.android.vending/#Intent;scheme=android-app;end)
+# Links for guide
+# Guide
+- [Guide over on XDA Forums](https://forum.xda-developers.com/t/root-removing-uttar-pradesh-government-india-privacy-invasion-and-software-restrictions-in-samsung-galaxy-a03.4549589/post-88099509)
 
 # Important APKs
 - [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk)
